@@ -1,0 +1,9 @@
+  private static object MessageBox;
+
+        static void Main(string[] args)
+        {
+            Console.WriteLine("HOLA MUNDO");
+            string a = Console.ReadLine(); 
+        }
+    }
+}
